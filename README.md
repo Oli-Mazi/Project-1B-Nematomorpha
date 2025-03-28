@@ -1,5 +1,5 @@
 # Project-1B-Nematomorpha
-Code used in University of Bath MSc Bioinformatics Project 1B
+Code used in University of Bath MSc Bioinformatics Project 1B.
 A total of 3 scripts were used (two py and one "R")
 ### starcleaner.py
 code responsible for removing "*" in protein sequences produced by BRAKER3
