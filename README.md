@@ -6,4 +6,4 @@ code responsible for removing "*" in protein sequences produced by BRAKER3
 ### partitionorganiser.py
 Code takes folder with MSA of orthogroups, seperates the aligned sequences based on species and concatenates the sequences. Finally produces RaxML-style partition files
 ### "Nematomorpha TE ChromPlot.R"
-R code resposible for produicng chromplot style files, filtering, labellling and chromplot figure production for tranposable elements in Nematomorpha genomes assessed in the project
+R code resposible for produicng chromplot style files, filtering, labeling (colassigner.csv) and chromplot figure production for tranposable elements in Nematomorpha genomes assessed in the project
